@@ -1,0 +1,6 @@
+{
+  "name": "Royal GYM",
+  "description": "A premium gym application for Royal GYM showcasing fitness plans, AI workout/diet suggestions, and shop.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
